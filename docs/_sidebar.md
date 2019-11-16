@@ -14,5 +14,5 @@
   - [Language highlighting](language-highlight.md)
 
 
-- [Tone and Voice](awesome.md)
+- [Tone and Voice](tone.md)
 - [Icons](changelog.md)
